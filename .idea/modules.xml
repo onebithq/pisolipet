@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PisoLipet.iml" filepath="$PROJECT_DIR$/PisoLipet.iml" />
       <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsend/jsend.iml" filepath="$PROJECT_DIR$/jsend/jsend.iml" />
     </modules>
   </component>
 </project>
